@@ -1,0 +1,55 @@
+body {
+    background: linear-gradient(to right,#0d54b1,#33aeff); 
+}
+
+
+.banner {
+    height: 75px;
+    /*margin: 0px -10px 10px;*/
+    border-radius: 2px;
+    font-family: "sans-serif";
+    font-style: bold;
+    text-align: center;
+    background-color: rgb(66, 196, 247);
+}
+.banner h2{
+    color: white;
+    padding-top: 10px;
+    margin-left: 2%;
+    display: inline-block;
+}
+
+.banner img{
+    position: relative;
+    float: right;
+    right: 10px;
+    height: 75px;
+}
+
+.banner input {
+  width: 40%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+.dropdown{
+	width: 40%;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
+.value{
+	margin-top: 200px;
+	vertical-align: center;
+	font-style: bold;
+	float: left;
+}
+./*banner div{
+    margin-top: 1px;
+    /*display: flex;*/
+    /*align-items: center;*/
+    /*justify-content: center;*/
+/*}*/
+
